@@ -11,7 +11,39 @@ h1{
 }
 
 .slogan {
-    color: hsala(0, 0%; 100%, 0.7);
+    color: hsala(0, 0%; 100%, 0.8);
     font-weight: lighter;
     font-size: 1.6rem;
+}
+
+main {
+    max-width: 900px
+}
+
+.project-description {
+    padding-left:
+} 
+
+/* No noté nada cuando puse la especificación para este selector*/
+
+.project img {
+    width: 100%;
+}
+
+/* No noté nada cuando puse la especificación para este selector*/
+
+footer.mdl-mini-footer {
+    bottom: 0;
+    padding: 0.5rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+body {
+    padding-bottom: 5rem;
+}
+
+footer.mdl-mini-footer > ul {
+    margin: auto;
 }
